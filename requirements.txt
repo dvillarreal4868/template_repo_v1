@@ -14,3 +14,6 @@ jupyterlab==4.3.4
 pyyaml==6.0.2
 nbformat==5.10.4
 nbclient==0.10.2
+
+# Data Version Control
+dvc[gdrive,webdav]==3.66.1 # For Google Drive and Box access
